@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Thought Experiment"
+title:  "Self-defeating Thought Experiment"
 date:   2022-06-04 18:00:00 -0500
 categories: insomnia death immortality thought-experiment
 ---
