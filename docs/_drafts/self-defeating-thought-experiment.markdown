@@ -2,7 +2,7 @@
 layout: post
 title:  "Self-defeating Thought Experiment"
 date:   2022-06-04 18:00:00 -0500
-categories: insomnia death immortality thought-experiment
+categories: thought-experiment
 ---
 Imagine your exact brain state can be uploaded to a synthetic body, allowing you to live on after the death of your body. You are anesthetized, your brain state is uploaded to your new synthetic body and your biological body is destroyed. You regain conciousness as a cybernetic being with a perfect memory of your life up until the anesthesia, and now you get to keep living and make new memories.
 
