@@ -14,6 +14,7 @@ categories: web development
 2. [Websites](#websites)
 3. [Email](#email)
 4. [When To Hire A Developer](#when-to-hire-a-developer)
+5. [F.A.Q.](#faq)
 
 ## Domains
 
@@ -21,7 +22,7 @@ A domain name, e.g. [firstprinciplesdevelopment.com](https://firstprinciplesdeve
 
 ## Websites
 
-If you want to make a website without writing any code or doing anything too technical, you have basically two options: use a _no-code_ tool to build your site or hire someone technical (i.e. a web developer) to build it for you. There is a a gray area in the middle as well, with platforms such as wordpress, where you needn't write any code, but you do have to learn how to use an unintuitive CMS (Content Management System), and with wordpress or sitebuilders that allow you to hire a web designer to customize your site. I have a strong bias against wordpress, so I never recommend it, but something like half of all websites use it, and there is a large ecosystem of plugins to extend the functionality of your site. Website builders are my recommendation for most people. Blogs and portfolio sites especially, but even ecommerce sites can be handled by no-code website builders.
+If you want to make a website without writing any code or doing anything too technical, you have basically two options: either use a _no-code_ tool to build your site or hire someone technical (i.e. a web developer) to build it for you. There is a a gray area in the middle as well, with platforms such as wordpress, where you needn't write any code, but you do have to learn how to use an unintuitive CMS (Content Management System), and with wordpress or sitebuilders that allow you to hire a web designer to customize your site. I have a strong bias against wordpress, so I never recommend it, but something like half of all websites use it, and there is a large ecosystem of plugins to extend the functionality of your site. Website builders are my recommendation for most people. Blogs and portfolio sites especially, but even ecommerce sites can be handled by no-code website builders.
 
 #### Website Builders (D.I.Y.)
 
@@ -30,7 +31,6 @@ There are tons of no-code tools that let anybody build a good-looking website. W
 #### Something More
 
 A web developer can, with enough resources, build any website imaginable. On the other hand, you can only build with a website builder what that product has already imagined and implemented. If this is too constraining for your vision, you may need something custom built. Get in touch, I'd love to help you out.
-
 
 ## Email
 
@@ -49,4 +49,26 @@ Here are 3 reasonable options:
 
 ## When To Hire A Developer
 
-When not to hire a web developer: for most portfolio, blog, and informational, static (minimally-interactive) websites. If you require user accounts, transactional email,
+When **NOT** to hire a web developer: for most portfolio, blog, and primarily informational websites.
+
+Example:
+
+> Alice wants a website to showcase her photography portfolio and provide a contact form. She could hire someone to make something really unique and stunning, but she'll be better off using a website builder, at least initially: this is very much a use case they have imagined. If her needs expand, she can always hire a designer or developer.
+
+If you require user accounts, real-time updates (think games or chat), complex data processing, or anything that the constraints of a website builder don't allow, you may want to hire a developer.
+
+Example:
+
+> Bob wants a website where many photographers can share there work and browse photos based on geographic location, camera model, date and other photo metadata. Bob needs something custom, that isn't feasible with a website builder; if he has the budget, Bob should hire a web developer to realize his vision.
+
+## F.A.Q.
+
+_Questions I frequently imagine being asked._
+
+#### Whats the difference between a web designer and a web developer?
+
+- Roughly speaking, the designer is focused on how things look and feel, while the developer is focused on what they _do_. These disciplines often overlap. ~~If you don't want your website to *do* anything different, but you'd like it to look nicer (or resize more appropriately on mobile devices), you might want to look for a web designer.~~
+
+#### How much will it cost?
+
+- It doesn't have to cost anything. Because so much of the internet revolves around freemium and ad-supported business models, anyone can build a free website or create a free email address, however if you want to use a 
