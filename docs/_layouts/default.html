@@ -4,7 +4,24 @@
   {%- include head.html -%}
 
   <body>
-
+    <script>
+      /* Apply a yellow fade transition. */
+      function bgFade(elem, bgOpacity) {
+        console.log('fade');
+        elem.style.backgroundColor = `rgba(255, 242, 130, ${bgOpacity})`;
+        if (bgOpacity >= 0) {
+          setTimeout(function() {bgFade(elem, bgOpacity - 0.02)}, 50);
+        }
+      }
+      
+      /* Opens FAQ details by id. */
+      function openFaq(id) {
+        var details = document.getElementById(id).parentElement;
+        details.open = true;
+        bgFade(details, 0.7);
+      }
+    </script>
+    
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">

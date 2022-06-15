@@ -24,7 +24,7 @@ If you want to make a website without writing any code or doing anything too tec
 
 #### Website Builders (D.I.Y.)
 
-There are tons of no-code tools that let anybody build a good-looking website at reasonable to no cost. Wix, Weebly, Squarespace, and many other website builders let you choose pre-made themes, customize them and build pages with intuitive drag-and-drop editors. I won't do a comparison, because I don't use them, but the folks at [PC Magazine wrote a comparison](https://www.pcmag.com/picks/the-best-website-builders). Blogs and portfolio sites especially, but even ecommerce sites can be handled by no-code website builders. The nice thing is, there is very little risk in starting out with a website builder. If you outgrow it, you can have something custom built, or in some cases, we can even sneak some custom code into the website builder to handle an unmet need.
+There are tons of no-code tools that let anybody build a good-looking website at reasonable to no cost. <a href="https://www.wix.com" target="_blank">Wix</a>, <a href="https://www.weebly.com" target="_blank">Weebly</a>, <a href="https://www.squarespace.com" target="_blank">Squarespace</a>, and many other website builders let you choose pre-made themes, customize them and build pages with intuitive drag-and-drop editors. I won't do a comparison, because I don't use them, but the folks at <a href="https://www.pcmag.com/picks/the-best-website-builders" target="_blank">PC Magazine wrote a comparison</a>. Blogs and portfolio sites especially, but even ecommerce sites can be handled by no-code website builders. The nice thing is, there is very little risk in starting out with a website builder. If you outgrow it, you can have something custom built, or in some cases, we can even sneak some custom code into the website builder to handle an unmet need.
 
 #### Hiring A Web Developer
 
@@ -32,9 +32,9 @@ A web developer can build any website imaginable, given enough time. On the othe
 
 ## Domains
 
-A domain name, e.g. [firstprinciplesdevelopment.com](https://firstprinciplesdevelopment.com), allows people to find your website. I recommend _searching_ for your domain using [Google's domain search](https://domains.google/) because it's super fast and allows you to see availability and pricing without signing up. Once you've found an available domain, register (purchase) it through whatever registrar you like; Google may be convenient if you plan to use Google workspace for email, while your website builder may be convenient because you can manage your website and domain in the same place.
+A domain name, e.g. <a href="https://firstprinciplesdevelopment.com" target="_blank">firstprinciplesdevelopment.com</a>, allows people to find your website. I recommend _searching_ for your domain using <a href="https://domains.google/" target="_blank">Google’s domain search</a> because it's super fast and allows you to see availability and pricing without signing up. Once you've found an available domain, register (purchase) it through whatever registrar you like; Google may be convenient if you plan to use Google workspace for email, while your website builder may be convenient because you can manage your website and domain in the same place.
 
-A typical `.com` domain costs around $15/year and every decent registrar includes [WHOIS privacy protection](#what-is-whois-privacy-protection) — make sure it is enabled so that your email or other information is not made public. 
+A typical `.com` domain costs around $15/year and every decent registrar includes <a href="#what-is-whois-privacy-protection" onclick="openFaq('what-is-whois-privacy-protection')">WHOIS privacy protection</a> — make sure it is enabled so that your email or other information is not made public. 
 
 One last thing: choose a `.com` if you can, it's the most recognizable.
 
@@ -44,14 +44,14 @@ Here are 3 reasonable options:
 
 - #### Gmail/Google Workspace
 
-  Gmail is free if you don't want to use a custom domain, and Google workspace is $6/month (at time of writing) if you want to use a custom domain (e.g. contact@firstprinciplesdevelopment.com).
+  Gmail is free if you don't want to use a custom domain, and Google workspace is $6/month (at time of writing) if you want to use a custom domain.
 
 - #### Proton Mail
 
   Proton Mail is privacy focused and has free and paid plans. You'll need to pay around $5/month if you want to use a custom domain. While Google will likely scan the contents of your emails and proton (probably) won't, don't believe all the marketing copy: email is not very secure or private, and as soon as you send an email to somebody, what happens to that information is out of your control.
 
 - #### Zoho Mail
-  A budget option, zoho mail offers a free plan with limited features for a custom domain! However, it isn't easy to find: search "Forever Free Plan" on [this page](https://www.zoho.com/mail/zohomail-pricing.html). Plus, their cheapest paid plan is only $1/month.
+  A budget option, zoho mail offers a free plan with limited features for a custom domain! However, it isn't easy to find: search "Forever Free Plan" on <a href="https://www.zoho.com/mail/zohomail-pricing.html" target="_blank">this page</a>. Plus, their cheapest paid plan is only $1/month.
 
 ## When To Hire A Developer
 
@@ -65,38 +65,68 @@ If you require user accounts, real-time updates (think games or chat), complex d
 
 Example:
 
-> Bob wants a website where many photographers can share there work and browse photos based on geographic location, camera model, date and other photo metadata. Bob needs something custom, that isn't feasible with a website builder; if he has the budget, Bob should hire a web developer to realize his vision.
+> Bob wants a website where many photographers can share their work and browse photos based on geographic location, camera model, date and other photo metadata. Bob needs something custom, that isn't feasible with a website builder. If he has the budget, Bob should hire a web developer to realize his vision.
 
-**Whatever your project, I'd love to hear about it, and I'll give you the best advice I can. Shoot me an email at <a class="u-email" href="mailto:contact@firstprinciplesdevelopment.com">contact@firstprinciplesdevelopment.com</a>.**
+**Whatever your project, I'd love to hear about it, and I'll give you the best advice I can. <a class="u-email" href="mailto:contact@firstprinciplesdevelopment.com">Shoot me an email</a>.**
 
 ## F.A.Q.
 
 _Questions I frequently imagine being asked._
 
-#### How much will it cost to D.I.Y. with a site builder?
+<details>
+  <summary id="how-much-will-it-cost-to-diy-with-a-site-builder">How much will it cost to D.I.Y. with a site builder?</summary>
+  <br/>
+  <blockquote>
+    It doesn't have to cost anything. Anyone can build a free website or create a free email address, however, if you want to use a custom domain for your website or email, you should expect to pay <strong>~$15/year for a domain</strong>, <strong>~$5/month for email</strong> and <strong>~$20/month for a website builder</strong> at a minimum, more if you want to sell goods online.
+  </blockquote>
+</details>
 
-- It doesn't have to cost anything. Anyone can build a free website or create a free email address, however, if you want to use a custom domain for your website or email, you should expect to pay **~$15/year for a domain**, **~$5/month for email** and **~$20/month for a website builder** at a minimum, more if you want to sell goods online.
+<details>
+  <summary id="how-much-will-it-cost-to-hire-a-web-developer">How much will it cost to hire a web developer?</summary>
+  <br/>
+  <blockquote>
+    This depends on your requirements. I advise people to use $10,000 as the minimum they should be prepared to spend. While you can hire developers and designers on <a href="https://www.fiverr.com/" target="_blank">fiverr</a> and <a href="https://www.upwork.com/" target="_blank">upwork</a> to complete projects for much less than that, and there are small projects that I would take on for less than that, keep these points in mind:
+    <ol>
+      <li> 
+        Recurring costs. If you hire someone to build a website for you, you're going to need to hire them to maintain and update that website when you want to make changes to content, style and functionality, unless they set up a CMS like Wordpress for you, in which case <a href="#im-thinking-of-using-wordpress-help" onclick="openFaq('im-thinking-of-using-wordpress-help')">you probably didn’t need to hire them</a> in the first place.
+      </li>
+      <li>
+        Software developers are <a href="https://hbr.org/2011/09/why-your-it-project-may-be-riskier-than-you-think" target="_blank">notoriously poor</a> at estimating time and therefore, cost. Being off by a factor of 2, 4 or even 10 is <strong>common</strong>. Having a fixed price contract won't fully insulate you from this risk, because a developer isn't going to do 10 times the work they expected without renegotiating price.
+      </li>
+    </ol>
+  </blockquote>
+</details>
 
-#### How much will it cost to hire a web developer?
+<details>
+  <summary id="im-thinking-of-using-wordpress-help">I'm thinking of using Wordpress. Help?</summary>
+  <br/>
+  <blockquote>
+    Book a call with me and I'll talk you out of it. Wordpress is powerful, but has a poor user (you) and developer (me) experience. In many cases, what is accomplished with Wordpress is either simple enough that it could be done with a website builder, or complex enough that it shouldn't be handled by Wordpress, and it actually makes sense to hire someone to build something that isn't a security, usability and maintenance trainwreck. Did I mention I'm biased against Wordpress?
+  </blockquote>
+</details>
 
-- This depends on your requirements. I advise people to use $10,000 as the _minimum_ they should be prepared to spend. While you can hire developers and designers on [fiverr](https://www.fiverr.com/) and [upwork](https://www.upwork.com/) to complete projects for much less than that, and there are small projects that I would take on for less than that, keep these points in mind:
-1. Recurring costs. If you hire someone to build a website for you, you're going to need to hire them to maintain and update that website when you want to make changes to content, style and functionality, unless they set up a CMS like Wordpress for you, in which case [you probably didn't need to hire them](#im-thinking-of-using-wordpress-help) in the first place.
-2. Software developers are [notoriously poor](https://hbr.org/2011/09/why-your-it-project-may-be-riskier-than-you-think) at estimating time and therefore, cost. Being off by a factor of 2, 4 or even 10 is **common**. Having a fixed price contract won't fully insulate you from this risk, because a developer isn't going to do 10 times the work they expected without renegotiating price.
+<details>
+  <summary id="whats-the-difference-between-a-web-designer-and-a-web-developer">Whats the difference between a web designer and a web developer?</summary>
+  <br/>
+  <blockquote>
+    Roughly speaking, the designer is focused on how things look and feel, while the developer is focused on what they do. These disciplines often overlap.
+  </blockquote>
+</details>
 
-#### I'm thinking of using Wordpress. Help?
+<details>
+  <summary id="what-is-whois">What is WHOIS?</summary>
+  <br/>
+  <blockquote>
+    "WHOIS isn't an acronym, though it may look like one. In fact, it is the system that asks the question, who is responsible for a domain name or an IP address?"
+    <br/>
+    - <a href="https://whois.icann.org/en/about-whois" target="_blank">ICANN website</a>
+  </blockquote>
+</details>
 
-- Book a call with me and I'll talk you out of it. Wordpress is powerful, but has a poor user (you) and developer (me) experience. In many cases, what is accomplished with Wordpress is either simple enough that it could be done with a website builder, or complex enough that it shouldn't be handled by Wordpress, and it actually makes sense to hire someone to build something that isn't a security, usability and maintenance trainwreck. Did I mention I'm biased against Wordpress?
-
-#### Whats the difference between a web designer and a web developer?
-
-- Roughly speaking, the designer is focused on how things look and feel, while the developer is focused on what they _do_. These disciplines often overlap.
-
-#### What is WHOIS?
-
-- > "WHOIS isn't an acronym, though it may look like one. In fact, it is the system that asks the question, who is responsible for a domain name or an IP address?"
-<br/>
-\- [ICANN website](https://whois.icann.org/en/about-whois)
-
-#### What is WHOIS privacy protection?
-
-- The ICANN (Internet Corporation for Assigned Names and Numbers) requires identifying and contact information (called WHOIS data) to be provided for every registered domain name. Most registrars will provide their own information rather than yours as a free service, but you may have to opt in to this service and they all call it something slightly different.
+<details>
+  <summary id="what-is-whois-privacy-protection">What is WHOIS privacy protection?</summary>
+  <br/>
+  <blockquote>
+    The ICANN (Internet Corporation for Assigned Names and Numbers) requires identifying and contact information (called WHOIS data) to be provided for every registered domain name. Most registrars will provide their own information rather than yours as a free service, but you may have to opt in to this service and they all call it something slightly different.
+  </blockquote>
+</details>
