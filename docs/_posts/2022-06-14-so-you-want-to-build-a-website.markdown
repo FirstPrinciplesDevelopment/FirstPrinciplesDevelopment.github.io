@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "So You Want To Build A Website"
+date:   2022-06-14 18:00:00 -0500
 categories: web development
 ---
 
@@ -73,21 +74,21 @@ _Questions I frequently imagine being asked._
 
 #### How much will it cost to D.I.Y. with a site builder?
 
-- It doesn't have to cost anything. Anyone can build a free website or create a free email address, however, if you want to use a custom domain for your website or email, you should expect to pay **~ $15/year for a domain**, **~$5/month for email** and **~$20/month for a website builder** at a minimum, and more if you want to sell goods online.
-
-#### Whats the difference between a web designer and a web developer?
-
-- Roughly speaking, the designer is focused on how things look and feel, while the developer is focused on what they _do_. These disciplines often overlap.
+- It doesn't have to cost anything. Anyone can build a free website or create a free email address, however, if you want to use a custom domain for your website or email, you should expect to pay **~$15/year for a domain**, **~$5/month for email** and **~$20/month for a website builder** at a minimum, more if you want to sell goods online.
 
 #### How much will it cost to hire a web developer?
 
 - This depends on your requirements. I advise people to use $10,000 as the _minimum_ they should be prepared to spend. While you can hire developers and designers on [fiverr](https://www.fiverr.com/) and [upwork](https://www.upwork.com/) to complete projects for much less than that, and there are small projects that I would take on for less than that, keep these points in mind:
-1. Recurring costs. If you hire someone to build a website for you, you're going to need to hire them to maintain and update that website when you want to make changes to content, style and functionality, unless they set up a CMS like Wordpress for you, in which case [you probably didn't need to hire them](#im-thinking-of-using-Wordpress-help) in the first place.
+1. Recurring costs. If you hire someone to build a website for you, you're going to need to hire them to maintain and update that website when you want to make changes to content, style and functionality, unless they set up a CMS like Wordpress for you, in which case [you probably didn't need to hire them](#im-thinking-of-using-wordpress-help) in the first place.
 2. Software developers are [notoriously poor](https://hbr.org/2011/09/why-your-it-project-may-be-riskier-than-you-think) at estimating time and therefore, cost. Being off by a factor of 2, 4 or even 10 is **common**. Having a fixed price contract won't fully insulate you from this risk, because a developer isn't going to do 10 times the work they expected without renegotiating price.
 
 #### I'm thinking of using Wordpress. Help?
 
 - Book a call with me and I'll talk you out of it. Wordpress is powerful, but has a poor user (you) and developer (me) experience. In many cases, what is accomplished with Wordpress is either simple enough that it could be done with a website builder, or complex enough that it shouldn't be handled by Wordpress, and it actually makes sense to hire someone to build something that isn't a security, usability and maintenance trainwreck. Did I mention I'm biased against Wordpress?
+
+#### Whats the difference between a web designer and a web developer?
+
+- Roughly speaking, the designer is focused on how things look and feel, while the developer is focused on what they _do_. These disciplines often overlap.
 
 #### What is WHOIS?
 
