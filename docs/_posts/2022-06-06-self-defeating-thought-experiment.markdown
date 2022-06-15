@@ -2,7 +2,8 @@
 layout: post
 title:  "Self-Defeating Thought Experiment"
 date:   2022-06-06 18:00:00 -0500
-categories: thought-experiment
+categories:
+tags: thought-experiment
 ---
 >Note: the plausibility of the medical procedure described below is not important to this thought experiment. Your intuition about what you would experience, were it to happen, and how that intuition shapes your beliefs about your "self" are important.
 

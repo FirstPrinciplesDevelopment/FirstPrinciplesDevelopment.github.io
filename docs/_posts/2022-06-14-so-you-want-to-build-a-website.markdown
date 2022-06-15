@@ -2,7 +2,8 @@
 layout: post
 title: "So You Want To Build A Website"
 date:   2022-06-14 18:00:00 -0500
-categories: web development
+categories:
+tags: web development
 ---
 
 > I often have conversations with friends and family who want websites. I love these conversations and this is in no way an attempt to avoid them, however I've realized the advice I give is generic, so I've summarized it below for anyone who finds it helpful.
