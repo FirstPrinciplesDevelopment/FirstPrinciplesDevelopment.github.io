@@ -6,6 +6,8 @@ categories:
 tags: machine-learning
 ---
 
+{% raw %}
+
 > In order to learn elixir's numerical libraries and foundational machine learning topics, I implemented a perceptron in elixir. The source code, which uses [Livebook](https://github.com/livebook-dev/livebook), can be found [here](https://github.com/FirstPrinciplesDevelopment/elixir-perceptron).
 
 ```elixir
@@ -116,3 +118,4 @@ defmodule Perceptron do
   end
 end
 ```
+{% endraw %}
