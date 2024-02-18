@@ -8,6 +8,9 @@ _Minima is a one-size-fits-all Jekyll theme for writers_. It's Jekyll's default 
 
 ## Installation
 
+Install ruby, then install bundler and jekyll gems:
+`$ gem install jekyll bundler`.
+
 Add this line to your Jekyll site's Gemfile:
 
 ```ruby
